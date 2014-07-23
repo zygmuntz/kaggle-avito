@@ -1,4 +1,5 @@
 kaggle-avito
 ============
 
-Some code for the Avito competition
+	`load_attribs.py - a demo of how to load attribs`
+	
