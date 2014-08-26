@@ -4,6 +4,7 @@ kaggle-avito
 	construct_line.py - a helper module used by tsv2vw.py
 	load_attribs.py - a demo of how to load attribs
 	predict.py - produce a solution file for Kaggle from VW predictions
+	score.py - get validation scores
 	tsv2vw.py - convert data to VW format
 	
 How to use
