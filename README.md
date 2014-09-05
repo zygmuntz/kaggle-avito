@@ -1,6 +1,10 @@
 kaggle-avito
 ============
 
+See [Beating the benchmark](http://www.kaggle.com/c/avito-prohibited-content/forums/t/10120/beating-the-benchmark) thread at the competition forum and [http://fastml.com/kaggle-vs-industry-as-seen-through-lens-of-the-avito-competition/](http://fastml.com/kaggle-vs-industry-as-seen-through-lens-of-the-avito-competition/) for more info.
+
+The `by_category` folder contains code for training a separate model for each category.
+
 	construct_line.py - a helper module used by tsv2vw.py
 	load_attribs.py - a demo of how to load attribs
 	predict.py - produce a solution file for Kaggle from VW predictions
